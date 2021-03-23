@@ -1,5 +1,7 @@
 /venv/
 /dataset/
 configs.py
+/data_wrangling_tutorial/
+/.ipynb_checkpoints/
 
 *.csv
