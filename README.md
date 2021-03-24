@@ -1,12 +1,12 @@
-# Explore Netflix Data
+# Data Exploratry Playground
 
 ### The Situation
 
-Netflix saves lives - especially during the time of pandemic. So I would want to know about what movies are included in the libraries. 
+I love data. So this repo saved some of my Jupyter Notebooks. 
 
 ### The Task
 
-We would like to explore if there is any interesting trend in there.
+We would like to explore if there is any interesting trend, previously unkwown patterns in these data.
 
 
 ### The Action
